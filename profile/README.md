@@ -28,11 +28,11 @@
 
 ## 👨‍💻 REPOSITORIES
 
-|                   **REPO**                   |                **INFO**                |
-| :------------------------------------------: | :------------------------------------: |
-|      [Utilities](../../../../Utilities)      |      Tài nguyên thiết yếu _(rác)_      |
-|  [NTTMK-lessons](../../../../NTTMK-lessons)  |               no comment               |
-| [1-167-main-B-K](../../../../1-167-main-B-K) | 167 bài bằng hàm main _(Bình & Khiêm)_ |
-|     [2-167-func](../../../../2-167-func)     |         167 bài bằng chia hàm          |
-|    [3-194-array](../../../../3-194-array)    |          194 bài mảng 1 chiều          |
-|   [4-172-matrix](../../../../4-172-matrix)   |          172 bài mảng 2 chiều          |
+|                 **REPO**                  | **INFO**                               |
+| :---------------------------------------: | :------------------------------------- |
+|      [Utilities](../../../Utilities)      | Tài nguyên thiết yếu _(rác)_           |
+|  [NTTMK-lessons](../../../NTTMK-lessons)  | no comment                             |
+| [1-167-main-B-K](../../../1-167-main-B-K) | 167 bài bằng hàm main _(Bình & Khiêm)_ |
+|     [2-167-func](../../../2-167-func)     | 167 bài bằng chia hàm                  |
+|    [3-194-array](../../../3-194-array)    | 194 bài mảng 1 chiều                   |
+|   [4-172-matrix](../../../4-172-matrix)   | 172 bài mảng 2 chiều                   |
