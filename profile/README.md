@@ -39,7 +39,7 @@
 
 ---
 
-## TOOL, PLATFORM, BOT, LANG
+## 🔮 TOOL, PLATFORM, BOT, LANG
 
 <div class="svg-container" align="left">
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" />
