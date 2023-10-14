@@ -6,4 +6,4 @@ Repo này để hiện ra trong overview thôi, dô đây chi ní? 🤨
 
 ---
 
-Đùa thôi 😌 Có thắc gì thì email [`kevinnitro@duck.com`](mailto:kevinnitro@duck.com) hoặc dô [Discussion](../../discussions/)
+Đùa thôi 😌 Có thắc mắc gì thì email [`kevinnitro@duck.com`](mailto:kevinnitro@duck.com) hoặc dô [Discussion](../../discussions/)
