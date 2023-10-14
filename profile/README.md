@@ -39,24 +39,16 @@
 
 ---
 
-## 🔮 TOOL, PLATFORM, BOT, LANG
+## 🔮 TOOL, PLATFORM, LANG
 
+
+[![Our Skills](https://skillicons.dev/icons?i=cpp,py,md,git,github,githubactions,visualstudio,vscode&theme=dark&perline=3)](https://skillicons.dev)
+
+## 🤖 BOT, FORMAT
 <div class="svg-container" align="left">
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="/img/icons8-github-for-darkmode.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-        <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" />
-    </picture>
-    <br>
-    <img height="40px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
     <img height="40px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
     <img height="40px" src="/img/gitguardian.svg" alt="Gitguardian" />
     <br>
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-    <br>
+    <img height="40px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
     <img height="40px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
 </div>
