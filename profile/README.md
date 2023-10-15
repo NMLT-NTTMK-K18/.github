@@ -28,23 +28,32 @@
 
 ## 👨‍💻 REPOSITORIES
 
-|                 **REPO**                  | **INFO**                               |
-| :---------------------------------------: | :------------------------------------- |
-|      [Utilities](../../../Utilities)      | Tài nguyên thiết yếu _(rác)_           |
-|  [NTTMK-lessons](../../../NTTMK-lessons)  | no comment                             |
-| [1-167-main-B-K](../../../1-167-main-B-K) | 167 bài bằng hàm main _(Bình & Khiêm)_ |
-|     [2-167-func](../../../2-167-func)     | 167 bài bằng chia hàm                  |
-|    [3-194-array](../../../3-194-array)    | 194 bài mảng 1 chiều                   |
-|   [4-172-matrix](../../../4-172-matrix)   | 172 bài mảng 2 chiều                   |
+|                 **REPO**                  | **INFO**                               | **VƯỢT ẢI** |
+| :---------------------------------------: | :------------------------------------- | :---------: |
+|      [Utilities](../../../Utilities)      | Tài nguyên thiết yếu _(rác)_           |             |
+|  [NTTMK-lessons](../../../NTTMK-lessons)  | no comment                             |             |
+| [1-167-main-B-K](../../../1-167-main-B-K) | 167 bài bằng hàm main _(Bình & Khiêm)_ |      3      |
+| [2-167-func-B-K](../../../2-167-func-B-K) | 167 bài bằng chia hàm _(Bình & Khiêm)_ |      4      |
+| [2-167-func-H-N](../../../2-167-func-H-N) | 167 bài bằng chia hàm _(Huy & Nguyễn)_ |      4      |
+|    [3-194-array](../../../3-194-array)    | 194 bài mảng 1 chiều                   |      5      |
+|   [4-172-matrix](../../../4-172-matrix)   | 172 bài mảng 2 chiều                   |      6      |
+
+> **Note**
+>
+> **Ải 1:** Điền lưu đồ thuật toán & chạy tay
+>
+> **Ải 2:** Code giấy lưu đồ thuật toán
 
 ---
 
 ## 🔮 TOOL, PLATFORM, LANG
 
-
 [![Our Skills](https://skillicons.dev/icons?i=cpp,py,md,git,github,githubactions,visualstudio,vscode&theme=dark&perline=3)](https://skillicons.dev)
 
+---
+
 ## 🤖 BOT, FORMAT
+
 <div class="svg-container" align="left">
     <img height="40px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
     <img height="40px" src="/img/gitguardian.svg" alt="Gitguardian" />
