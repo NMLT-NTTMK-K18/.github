@@ -1,8 +1,8 @@
 # NMLT NTTMK K18 😰
 
-[![Trường - UIT](https://img.shields.io/badge/tr%C6%B0%E1%BB%9Dng-UIT-blue?style=for-the-badge)](https://uit.edu.vn/)
-![Khoá - 18](https://img.shields.io/badge/kho%C3%A1-18-red?style=for-the-badge)
-![Môn - NMLT](https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-yellow?style=for-the-badge)
+[![Trường - UIT](https://img.shields.io/badge/tr%C6%B0%E1%BB%9Dng-UIT-CAEDFF?style=for-the-badge)](https://uit.edu.vn/)
+![Khoá - 18](https://img.shields.io/badge/kho%C3%A1-18-D8B4F8?style=for-the-badge)
+![Môn - NMLT](https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-FBF0B2?style=for-the-badge)
 
 ---
 
