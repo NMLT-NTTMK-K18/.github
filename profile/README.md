@@ -36,7 +36,7 @@
 | [2-167-func-H-N](../../../2-167-func-H-N) | 167 bài bằng chia hàm _(Huy & Nguyễn)_ |      4      |
 |    [3-194-array](../../../3-194-array)    | 194 bài mảng 1 chiều                   |      5      |
 |   [4-172-matrix](../../../4-172-matrix)   | 172 bài mảng 2 chiều                   |      6      |
-|   [5-239-struct](../../../5-239-struct)   | 239 bài cấu trúc dữ liệu               |      7      |
+|   [5-258-struct](../../../5-258-struct)   | 258 _(19 + 239)_ bài cấu trúc dữ liệu  |      7      |
 
 <!--|  [NTTMK-lessons](../../../NTTMK-lessons)  | no comment                             |             |-->
 
