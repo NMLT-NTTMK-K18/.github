@@ -20,8 +20,8 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 | **NAME**                   | **ACADEMIC DEGREE** | **EMAIL**                                             | **ROLE**               |
 | :------------------------- | :------------------ | :---------------------------------------------------- | :--------------------- |
 | Nguyễn Tấn Trần Minh Khang | TS.                 | [`khangnttm@uit.edu.vn`](mailto:khangnttm@uit.edu.vn) | GV lý thuyết           |
-| Nguyễn Hữu Lợi             | ThS.                | [`loinh@uit.edu.vn`](mailto:loinh@uit.edu.vn)         | GV lý thuyết           |
-| Võ Duy Nguyên              | ThS.                | [`nguyenvd@uit.edu.vn`](mailto:nguyenvd@uit.edu.vn)   | GV hướng dẫn thực hành |
+| Võ Duy Nguyên              | ThS.                | [`nguyenvd@uit.edu.vn`](mailto:nguyenvd@uit.edu.vn)   | GV lý thuyết           |
+| Nguyễn Hữu Lợi             | ThS.                | [`loinh@uit.edu.vn`](mailto:loinh@uit.edu.vn)         | GV hướng dẫn thực hành |
 
 ---
 
