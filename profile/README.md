@@ -25,7 +25,7 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 
 ---
 
-<h2 align="center">😵‍💫 MEMBERS</h2>
+<h2 align="center">🧒 MEMBERS</h2>
 
 | **STT** | **MEMBER**             |                   **GITHUB USERNAME**                   | **MSSV** |
 | :-----: | :--------------------- | :-----------------------------------------------------: | -------- |
@@ -37,7 +37,7 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 
 ---
 
-<h2 align="center">👨‍💻 REPOSITORIES</h2>
+<h2 align="center">📂 REPOSITORIES</h2>
 
 |                 **REPO**                  | **INFO**                               | **VƯỢT ẢI** |
 | :---------------------------------------: | :------------------------------------- | :---------: |
