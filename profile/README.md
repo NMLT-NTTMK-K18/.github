@@ -1,12 +1,21 @@
-# NMLT NTTMK K18 😰
+<h1 align="center">😨 NMLT NTTMK K18 😵‍💫</h1>
 
-[![Trường - UIT](https://img.shields.io/badge/tr%C6%B0%E1%BB%9Dng-UIT-CAEDFF?style=for-the-badge)](https://uit.edu.vn/)
-![Khoá - 18](https://img.shields.io/badge/kho%C3%A1-18-D8B4F8?style=for-the-badge)
-![Môn - NMLT](https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-FBF0B2?style=for-the-badge)
+<div align="center">
+  <a href="https://uit.edu.vn/">
+    <img src="https://img.shields.io/badge/tr%C6%B0%E1%BB%9Dng-UIT-CAEDFF?style=for-the-badge" alt="Trường - UIT">
+  </a>
+  <img src="https://img.shields.io/badge/kho%C3%A1-18-D8B4F8?style=for-the-badge" alt="Khoá - 18">
+  <img src="https://img.shields.io/badge/n%C4%83m_h%E1%BB%8Dc-2023-FFC7EA?style=for-the-badge" alt="Năm học - 2023">
+  <img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-FBF0B2?style=for-the-badge" alt="Môn - Nhập môn lập trình">
+</div>
+
+<!-- Pastel
+https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
+-->
 
 ---
 
-## 🧑‍🏫 LECTURERS
+<h2 align="center">🧑‍🏫 LECTURERS</h2>
 
 -   Nguyễn Tấn Trần Minh Khang
 -   Nguyễn Hữu Lợi
@@ -14,7 +23,7 @@
 
 ---
 
-## 😵‍💫 MEMBERS
+<h2 align="center">😵‍💫 MEMBERS</h2>
 
 | **STT** | **MEMBER**             |                   **GITHUB USERNAME**                   | **MSSV** |
 | :-----: | :--------------------- | :-----------------------------------------------------: | -------- |
@@ -26,7 +35,7 @@
 
 ---
 
-## 👨‍💻 REPOSITORIES
+<h2 align="center">👨‍💻 REPOSITORIES</h2>
 
 |                 **REPO**                  | **INFO**                               | **VƯỢT ẢI** |
 | :---------------------------------------: | :------------------------------------- | :---------: |
@@ -48,17 +57,18 @@
 
 ---
 
-## 🔮 TOOL, PLATFORM, LANG
+<h2 align="center">🔮 TOOL, PLATFORM, LANG</h2>
 
 [![Our Skills](https://skillicons.dev/icons?i=cpp,py,md,git,github,githubactions,visualstudio,vscode&theme=dark&perline=3)](https://skillicons.dev)
 
 ---
 
-## 🤖 BOT, FORMAT
+<h2 align="center">🤖 BOT, FORMAT</h2>
 
 <div class="svg-container" align="left">
     <img height="40px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
     <img height="40px" src="/img/gitguardian.svg" alt="Gitguardian" />
+    <img height="40px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
     <br>
     <img height="40px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
     <img height="40px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
