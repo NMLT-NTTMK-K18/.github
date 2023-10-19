@@ -69,8 +69,8 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 
 <div class="svg-container" align="left">
     <img height="40px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
-    <img height="40px" src="/img/gitguardian.svg" alt="Gitguardian" />
     <img height="40px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
+    <img height="40px" src="/img/gitguardian.svg" alt="Gitguardian" />
     <br>
     <img height="40px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
     <img height="40px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
