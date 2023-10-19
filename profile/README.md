@@ -61,7 +61,11 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 
 <h2 align="center">🔮 TOOL, PLATFORM, LANG</h2>
 
-[![Our Skills](https://skillicons.dev/icons?i=cpp,py,md,git,github,githubactions,visualstudio,vscode&theme=dark&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,cpp,py,md,git,github,githubactions&theme=dark" />
+  </a>
+</p>
 
 ---
 
