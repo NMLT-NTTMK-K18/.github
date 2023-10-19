@@ -63,7 +63,7 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,cpp,py,bash,linux,visualstudio,vscode,git,github,githubactions&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=md,cpp,py,regex,bash,visualstudio,vscode,git,github,githubactions&perline=5&theme=dark" />
   </a>
 </p>
 
