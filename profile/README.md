@@ -15,7 +15,7 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 
 ---
 
-<h2 align="center">🧑‍🏫 LECTURERS</h2>
+<h2 align="center">🧑‍🏫 LECTURERS 👨‍🏫</h2>
 
 | **NAME**                   | **ACADEMIC DEGREE** | **EMAIL**                                             | **ROLE**               |
 | :------------------------- | :------------------ | :---------------------------------------------------- | :--------------------- |
@@ -25,7 +25,7 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 
 ---
 
-<h2 align="center">🧒 MEMBERS</h2>
+<h2 align="center">🧒 MEMBERS 🧒</h2>
 
 | **STT** | **MEMBER**             |                   **GITHUB USERNAME**                   | **MSSV** |
 | :-----: | :--------------------- | :-----------------------------------------------------: | -------- |
@@ -37,7 +37,7 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 
 ---
 
-<h2 align="center">📂 REPOSITORIES</h2>
+<h2 align="center">📁 REPOSITORIES 📂</h2>
 
 |                 **REPO**                  | **INFO**                               | **VƯỢT ẢI** |
 | :---------------------------------------: | :------------------------------------- | :---------: |
@@ -59,23 +59,23 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 
 ---
 
-<h2 align="center">🔮 TOOL, PLATFORM, LANG</h2>
+<h2 align="center">🔮 TOOL, PLATFORM, LANG 🔍</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,cpp,py,regex,bash,visualstudio,vscode,git,github,githubactions&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,md,regex,bash,git,github,githubactions,visualstudio,vscode&perline=5&theme=dark" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🤖 BOT, FORMAT</h2>
+<h2 align="center">🤖 BOT, FORMAT 🔨</h2>
 
 <div class="svg-container" align="left">
-    <img height="40px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
-    <img height="40px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
-    <img height="40px" src="/img/gitguardian.svg" alt="Gitguardian" />
+    <img height="44px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
+    <img height="44px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
+    <img height="44px" src="/img/gitguardian.svg" alt="Gitguardian" />
     <br>
-    <img height="40px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
-    <img height="40px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
+    <img height="44px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
+    <img height="44px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
 </div>
