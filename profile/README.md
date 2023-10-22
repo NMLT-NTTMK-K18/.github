@@ -6,7 +6,8 @@
   </a>
   <img src="https://img.shields.io/badge/kho%C3%A1-18-D8B4F8?style=for-the-badge" alt="Khoá - 18">
   <img src="https://img.shields.io/badge/n%C4%83m_h%E1%BB%8Dc-2023-FFC7EA?style=for-the-badge" alt="Năm học - 2023">
-  <img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-FBF0B2?style=for-the-badge" alt="Môn - Nhập môn lập trình">
+  <img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-FCD8BD?style=for-the-badge" alt="Môn - Nhập môn lập trình">
+  <img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-FBF0B2?style=for-the-badge" alt="Ngôn ngữ - C++">
 </div>
 
 <!-- Pastel
