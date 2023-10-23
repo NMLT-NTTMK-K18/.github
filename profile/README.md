@@ -49,6 +49,8 @@ https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
 |    [3-194-array](../../../3-194-array)    | 194 bài mảng 1 chiều                   |      5      |
 |   [4-172-matrix](../../../4-172-matrix)   | 172 bài mảng 2 chiều                   |      6      |
 |   [5-258-struct](../../../5-258-struct)   | 258 _(19 + 239)_ bài cấu trúc dữ liệu  |      7      |
+|          [6-?-?](../../../6-?-?)          | ?                                      |      8      |
+|   [7-200-wecode](../../../7-200-wecode)   | 200 bài trên WeCode                    |      9      |
 
 <!--|  [NTTMK-lessons](../../../NTTMK-lessons)  | no comment                             |             |-->
 
