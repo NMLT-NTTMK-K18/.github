@@ -1,4 +1,4 @@
-<h1 align="center">😨 NMLT NTTMK K18 😵‍💫</h1>
+<h1 align="center">😨 NMLT - NTTMK - K18 😵‍💫</h1>
 
 <div align="center">
   <a href="https://uit.edu.vn/">
