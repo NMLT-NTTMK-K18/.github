@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-FBF0B2?style=for-the-badge" alt="Ngôn ngữ - C++">
 </div>
 
-<!-- Pastel
-https://colorhunt.co/palette/fbf0b2ffc7ead8b4f8caedff
--->
-
 ---
 
 <h2 align="center">🧑‍🏫 LECTURERS 👨‍🏫</h2>
