@@ -37,17 +37,18 @@
 
 <h2 align="center">📁 REPOSITORIES 📂</h2>
 
-|                 **REPO**                  | **INFO**                               | **VƯỢT ẢI** |
-| :---------------------------------------: | :------------------------------------- | :---------: |
-|      [Utilities](../../../Utilities)      | Tài nguyên thiết yếu _(rác)_           |             |
-| [1-167-main-B-K](../../../1-167-main-B-K) | 167 bài bằng hàm main _(Bình & Khiêm)_ |      3      |
-| [2-167-func-B-K](../../../2-167-func-B-K) | 167 bài bằng chia hàm _(Bình & Khiêm)_ |      4      |
-| [2-167-func-H-N](../../../2-167-func-H-N) | 167 bài bằng chia hàm _(Huy & Nguyễn)_ |      4      |
-|    [3-194-array](../../../3-194-array)    | 194 bài mảng 1 chiều                   |      5      |
-|   [4-172-matrix](../../../4-172-matrix)   | 172 bài mảng 2 chiều                   |      6      |
-|   [5-258-struct](../../../5-258-struct)   | 258 _(19 + 239)_ bài cấu trúc dữ liệu  |      7      |
-|          [6-?-?](../../../6-?-?)          | ?                                      |      8      |
-|   [7-200-wecode](../../../7-200-wecode)   | 200 bài trên WeCode                    |      9      |
+|                 **REPO**                  | **INFO**                               | **STT** | **VƯỢT ẢI** |
+| :---------------------------------------: | :------------------------------------- | :-----: | :---------: |
+|        [.github](../../../.github)        | Là repo chứa cái nì nì 🤥              |         |             |
+|      [Utilities](../../../Utilities)      | Tài nguyên thiết yếu _(rác)_           |         |             |
+| [1-167-main-B-K](../../../1-167-main-B-K) | 167 bài bằng hàm main _(Bình & Khiêm)_ |    1    |      3      |
+| [2-167-func-B-K](../../../2-167-func-B-K) | 167 bài bằng chia hàm _(Bình & Khiêm)_ |    2    |      4      |
+| [2-167-func-H-N](../../../2-167-func-H-N) | 167 bài bằng chia hàm _(Huy & Nguyễn)_ |    2    |      4      |
+|    [3-194-array](../../../3-194-array)    | 194 bài mảng 1 chiều                   |    3    |      5      |
+|   [4-172-matrix](../../../4-172-matrix)   | 172 bài mảng 2 chiều                   |    4    |      6      |
+|   [5-258-struct](../../../5-258-struct)   | 258 _(19 + 239)_ bài cấu trúc dữ liệu  |    5    |      7      |
+|          [6-?-?](../../../6-?-?)          | ?                                      |    6    |      8      |
+|   [7-200-wecode](../../../7-200-wecode)   | 200 bài trên WeCode                    |    7    |      9      |
 
 <!--|  [NTTMK-lessons](../../../NTTMK-lessons)  | no comment                             |             |-->
 
@@ -74,6 +75,7 @@
 <div class="svg-container" align="left">
     <img height="44px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
     <img height="44px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
+    <img height="44px" src="/img/codefactor-icon-svgrepo-com.svg" alt="CodeFactor" />
     <img height="44px" src="/img/gitguardian.svg" alt="Gitguardian" />
     <br>
     <img height="44px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
