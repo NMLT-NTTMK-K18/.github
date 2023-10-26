@@ -2,13 +2,16 @@
 
 <div align="center">
   <a href="https://uit.edu.vn/">
-    <img src="https://img.shields.io/badge/tr%C6%B0%E1%BB%9Dng-UIT-CAEDFF?style=for-the-badge" alt="Trường - UIT">
+    <img src="https://img.shields.io/badge/tr%C6%B0%E1%BB%9Dng-UIT-a0c4ff?style=for-the-badge" alt="Trường - UIT">
   </a>
-  <img src="https://img.shields.io/badge/kho%C3%A1-18-D8B4F8?style=for-the-badge" alt="Khoá - 18">
-  <img src="https://img.shields.io/badge/n%C4%83m_h%E1%BB%8Dc-2023-FFC7EA?style=for-the-badge" alt="Năm học - 2023">
-  <img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-FCD8BD?style=for-the-badge" alt="Môn - Nhập môn lập trình">
-  <img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-FBF0B2?style=for-the-badge" alt="Ngôn ngữ - C++">
-  <img src="https://img.shields.io/badge/s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20b%C3%A0i%20t%E1%BA%ADp-%3F-CDFBBD?style=for-the-badge" alt="Số lượng bài tập - ?">
+  <img src="https://img.shields.io/badge/kho%C3%A1-18-9bf6ff?style=for-the-badge" alt="Khoá - 18">
+  <img src="https://img.shields.io/badge/n%C4%83m_h%E1%BB%8Dc-2023-caffbf?style=for-the-badge" alt="Năm học - 2023">
+  <img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-fdffb6?style=for-the-badge" alt="Môn - Nhập môn lập trình">
+  <img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-ffd6a5?style=for-the-badge" alt="Ngôn ngữ - C++">
+  <img src="https://img.shields.io/badge/s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20b%C3%A0i%20t%E1%BA%ADp-%3F-ffadad?style=for-the-badge" alt="Số lượng bài tập - ?">
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-ffc6ff?style=for-the-badge" alt="LICENSE - MIT">
+  </a>
 </div>
 
 ---
