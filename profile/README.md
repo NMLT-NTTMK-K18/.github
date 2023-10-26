@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/n%C4%83m_h%E1%BB%8Dc-2023-FFC7EA?style=for-the-badge" alt="Năm học - 2023">
   <img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-FCD8BD?style=for-the-badge" alt="Môn - Nhập môn lập trình">
   <img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-FBF0B2?style=for-the-badge" alt="Ngôn ngữ - C++">
+  <img src="https://img.shields.io/badge/s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20b%C3%A0i%20t%E1%BA%ADp-%3F-CDFBBD?style=for-the-badge" alt="Số lượng bài tập - ?">
 </div>
 
 ---
