@@ -41,7 +41,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.USER_GITHUB_TOKEN }}
         run: |
-          git clone https://${{ env.GITHUB_TOKEN }}github.com/NMLT-NTTMK-K18/NMLT-NTTMK-K18 Github-Page-Repo --depth 1
+          git clone https://${{ env.GITHUB_TOKEN }}@github.com/NMLT-NTTMK-K18/NMLT-NTTMK-K18 Github-Page-Repo --depth 1
           cp profile/README.md Github-Page-Repo/README.md
           cd Github-Page-Repo
           if ! git status | grep "nothing to commit" > /dev/null 2>&1; then
