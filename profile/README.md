@@ -1,63 +1,63 @@
 <h1 align="center">😨 NMLT - NTTMK - K18 😵‍💫</h1>
 
 <div align="center">
-  <a href="https://uit.edu.vn/">
-    <img src="https://img.shields.io/badge/tr%C6%B0%E1%BB%9Dng-UIT-a0c4ff?style=for-the-badge" alt="Trường - UIT">
-  </a>
-  <img src="https://img.shields.io/badge/kho%C3%A1-18-9bf6ff?style=for-the-badge" alt="Khoá - 18">
-  <img src="https://img.shields.io/badge/n%C4%83m_h%E1%BB%8Dc-2023-caffbf?style=for-the-badge" alt="Năm học - 2023">
-  <img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-fdffb6?style=for-the-badge" alt="Môn - Nhập môn lập trình">
-  <img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-ffd6a5?style=for-the-badge" alt="Ngôn ngữ - C++">
-  <img src="https://img.shields.io/badge/s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20b%C3%A0i%20t%E1%BA%ADp-%3F-ffadad?style=for-the-badge" alt="Số lượng bài tập - ?">
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-ffc6ff?style=for-the-badge" alt="LICENSE - MIT">
-  </a>
-  <img src="https://img.shields.io/badge/OS-Windows-bdb2ff?style=for-the-badge&logo=windows%2011" alt="OS - Windows">
-  <img src="https://img.shields.io/badge/EOL-CRLF-a0c4ff?style=for-the-badge" alt="End Of Line - Carriage Return Line Feed">
+	<a href="https://uit.edu.vn/">
+		<img src="https://img.shields.io/badge/tr%C6%B0%E1%BB%9Dng-UIT-a0c4ff?style=for-the-badge" alt="Trường - UIT">
+	</a>
+	<img src="https://img.shields.io/badge/kho%C3%A1-18-9bf6ff?style=for-the-badge" alt="Khoá - 18">
+	<img src="https://img.shields.io/badge/n%C4%83m_h%E1%BB%8Dc-2023-caffbf?style=for-the-badge" alt="Năm học - 2023">
+	<img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-fdffb6?style=for-the-badge" alt="Môn - Nhập môn lập trình">
+	<img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-ffd6a5?style=for-the-badge" alt="Ngôn ngữ - C++">
+	<img src="https://img.shields.io/badge/s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20b%C3%A0i%20t%E1%BA%ADp-%3F-ffadad?style=for-the-badge" alt="Số lượng bài tập - ?">
+	<a href="./LICENSE">
+		<img src="https://img.shields.io/badge/License-MIT-ffc6ff?style=for-the-badge" alt="LICENSE - MIT">
+	</a>
+	<img src="https://img.shields.io/badge/OS-Windows-bdb2ff?style=for-the-badge&logo=windows%2011" alt="OS - Windows">
+	<img src="https://img.shields.io/badge/EOL-CRLF-a0c4ff?style=for-the-badge" alt="End Of Line - Carriage Return Line Feed">
 </div>
 
 ---
 
 <h2 align="center">🧑‍🏫 LECTURERS 👨‍🏫</h2>
 
-<center>
-  <table>
-    <thead>
-      <tr>
-        <th><b>NAME</B></th>
-        <th><b>ACADEMIC DEGREE</B></th>
-        <th><b>EMAIL</B></th>
-        <th><b>ROLE</B></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Nguyễn Tấn Trần Minh Khang</td>
-        <td>TS.</td>
-        <td><code><a href="mailto:khangnttm@uit.edu.vn">khangnttm@uit.edu.vn</a></code></td>
-        <td>GV lý thuyết</td>
-      </tr>
-      <tr>
-        <td>Võ Duy Nguyên</td>
-        <td>ThS.</td>
-        <td><code><a href="mailto:nguyenvd@uit.edu.vn">nguyenvd@uit.edu.vn</a></code></td>
-        <td>GV lý thuyết</td>
-      </tr>
-      <tr>
-        <td>Nguyễn Hữu Lợi</td>
-        <td>ThS.</td>
-        <td><code><a href="mailto:loinh@uit.edu.vn">loinh@uit.edu.vn</a></code></td>
-        <td>GV hướng dẫn thực hành</td>
-      </tr>
-    </tbody>
-  </table>
-</center>
+<div align="center">
+	<table>
+		<thead>
+			<tr>
+				<th><b>NAME</B></th>
+				<th><b>ACADEMIC DEGREE</B></th>
+				<th><b>EMAIL</B></th>
+				<th><b>ROLE</B></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Nguyễn Tấn Trần Minh Khang</td>
+				<td>TS.</td>
+				<td><code><a href="mailto:khangnttm@uit.edu.vn">khangnttm@uit.edu.vn</a></code></td>
+				<td>GV lý thuyết</td>
+			</tr>
+			<tr>
+				<td>Võ Duy Nguyên</td>
+				<td>ThS.</td>
+				<td><code><a href="mailto:nguyenvd@uit.edu.vn">nguyenvd@uit.edu.vn</a></code></td>
+				<td>GV lý thuyết</td>
+			</tr>
+			<tr>
+				<td>Nguyễn Hữu Lợi</td>
+				<td>ThS.</td>
+				<td><code><a href="mailto:loinh@uit.edu.vn">loinh@uit.edu.vn</a></code></td>
+				<td>GV hướng dẫn thực hành</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
 ---
 
 <h2 align="center">🧒 MEMBERS 🧒</h2>
 
-<center>
+<div align="center">
 	<table>
 		<thead>
 			<tr>
@@ -100,13 +100,13 @@
 			</tr>
 		</tbody>
 	</table>
-</center>
+</div>
 
 ---
 
 <h2 align="center">📁 REPOSITORIES 📂</h2>
 
-<center>
+<div align="center">
 	<table>
 		<thead>
 			<tr>
@@ -191,7 +191,7 @@
 			</tr>
 		</tbody>
 	</table>
-</center>
+</div>
 
 <!--|  [NTTMK-lessons](../../../NTTMK-lessons)  | no comment                             |             |-->
 
