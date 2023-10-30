@@ -45,7 +45,10 @@ jobs:
           cp profile/README.md Github-Page-Repo/README.md
           mkdir Github-Page-Repo/img
           cp -r --parents img/* Github-Page-Repo/img/
-          cd Github-Page-Repo
+
+      - name: Commit and push if changed
+        working-directory: Github-Page-Repo
+        run: |
           if ! git status | grep "nothing to commit" > /dev/null 2>&1; then
             git add .
             git commit -m "Update README.md"
