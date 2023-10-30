@@ -25,13 +25,36 @@
 <h2 align="center">🧑‍🏫 LECTURERS 👨‍🏫</h2>
 
 <div align="center">
-
-| **NAME**                   | **ACADEMIC DEGREE** | **EMAIL**                                             | **ROLE**               |
-| :------------------------- | :------------------ | :---------------------------------------------------- | :--------------------- |
-| Nguyễn Tấn Trần Minh Khang | TS.                 | [`khangnttm@uit.edu.vn`](mailto:khangnttm@uit.edu.vn) | GV lý thuyết           |
-| Võ Duy Nguyên              | ThS.                | [`nguyenvd@uit.edu.vn`](mailto:nguyenvd@uit.edu.vn)   | GV lý thuyết           |
-| Nguyễn Hữu Lợi             | ThS.                | [`loinh@uit.edu.vn`](mailto:loinh@uit.edu.vn)         | GV hướng dẫn thực hành |
-
+	<table>
+		<thead>
+			<tr>
+				<th><b>NAME</B></th>
+				<th><b>ACADEMIC DEGREE</B></th>
+				<th><b>EMAIL</B></th>
+				<th><b>ROLE</B></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Nguyễn Tấn Trần Minh Khang</td>
+				<td>TS.</td>
+				<td><code><a href="mailto:khangnttm@uit.edu.vn">khangnttm@uit.edu.vn</a></code></td>
+				<td>GV lý thuyết</td>
+			</tr>
+			<tr>
+				<td>Võ Duy Nguyên</td>
+				<td>ThS.</td>
+				<td><code><a href="mailto:nguyenvd@uit.edu.vn">nguyenvd@uit.edu.vn</a></code></td>
+				<td>GV lý thuyết</td>
+			</tr>
+			<tr>
+				<td>Nguyễn Hữu Lợi</td>
+				<td>ThS.</td>
+				<td><code><a href="mailto:loinh@uit.edu.vn">loinh@uit.edu.vn</a></code></td>
+				<td>GV hướng dẫn thực hành</td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 
 ---
@@ -39,15 +62,48 @@
 <h2 align="center">🧒 MEMBERS 🧒</h2>
 
 <div align="center">
-
-| **STT** | **MEMBER**             |                    **GITHUB USERNAME**                    | **MSSV**   |
-| :-----: | :--------------------- | :-------------------------------------------------------: | ---------- |
-|    1    | Trần Nguyễn Thái Bình  |      [`KevinNitroG`](https://github.com/KevinNitroG)      | `23520161` |
-|    2    | Trương Hoàng Khiêm     | [`truonghoangkhiem`](https://github.com/truonghoangkhiem) | `23520730` |
-|    3    | Nguyễn Thái Gia Nguyễn |        [`NTGNguyen`](https://github.com/NTGNguyen)        | `23521049` |
-|    4    | Ngô Minh Huy           |      [`MinhHuy1507`](https://github.com/MinhHuy1507)      | `23520623` |
-|    5    | Dương Thông Tuệ        |   [`tueduonggg1203`](https://github.com/tueduonggg1203)   | `23521734` |
-
+	<table>
+		<thead>
+			<tr>
+				<th align="center"><b>STT</b></th>
+				<th align="left"><b>MEMBER</b></th>
+				<th align="center"><b>GITHUB USERNAME</b></th>
+				<th align="center"><b>MSSV</b></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">1</td>
+				<td>Trần Nguyễn Thái Bình</td>
+				<td align="center"><code><a href="https://github.com/KevinNitroG">KevinNitroG</a></code></td>
+				<td align="center"><code>23520161</code></td>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Trương Hoàng Khiêm</td>
+				<td align="center"><code><a href="https://github.com/truonghoangkhiem">truonghoangkhiem</a></code></td>
+				<td align="center"><code>23520730</code></td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Nguyễn Thái Gia Nguyễn</td>
+				<td align="center"><code><a href="https://github.com/NTGNguyen">NTGNguyen</a></code></td>
+				<td align="center"><code>23521049</code></td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Ngô Minh Huy</td>
+				<td align="center"><code><a href="https://github.com/MinhHuy1507">MinhHuy1507</a></code></td>
+				<td align="center"><code>23520623</code></td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>Dương Thông Tuệ</td>
+				<td align="center"><code><a href="https://github.com/tueduonggg1203">tueduonggg1203</a></code></td>
+				<td align="center"><code>23521734</code></td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 
 ---
