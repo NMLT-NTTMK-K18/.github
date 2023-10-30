@@ -20,48 +20,180 @@
 
 <h2 align="center">🧑‍🏫 LECTURERS 👨‍🏫</h2>
 
-| **NAME**                   | **ACADEMIC DEGREE** | **EMAIL**                                             | **ROLE**               |
-| :------------------------- | :------------------ | :---------------------------------------------------- | :--------------------- |
-| Nguyễn Tấn Trần Minh Khang | TS.                 | [`khangnttm@uit.edu.vn`](mailto:khangnttm@uit.edu.vn) | GV lý thuyết           |
-| Võ Duy Nguyên              | ThS.                | [`nguyenvd@uit.edu.vn`](mailto:nguyenvd@uit.edu.vn)   | GV lý thuyết           |
-| Nguyễn Hữu Lợi             | ThS.                | [`loinh@uit.edu.vn`](mailto:loinh@uit.edu.vn)         | GV hướng dẫn thực hành |
+<center>
+  <table>
+    <thead>
+      <tr>
+        <th><b>NAME</B></th>
+        <th><b>ACADEMIC DEGREE</B></th>
+        <th><b>EMAIL</B></th>
+        <th><b>ROLE</B></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Nguyễn Tấn Trần Minh Khang</td>
+        <td>TS.</td>
+        <td><code><a href="mailto:khangnttm@uit.edu.vn">khangnttm@uit.edu.vn</a></code></td>
+        <td>GV lý thuyết</td>
+      </tr>
+      <tr>
+        <td>Võ Duy Nguyên</td>
+        <td>ThS.</td>
+        <td><code><a href="mailto:nguyenvd@uit.edu.vn">nguyenvd@uit.edu.vn</a></code></td>
+        <td>GV lý thuyết</td>
+      </tr>
+      <tr>
+        <td>Nguyễn Hữu Lợi</td>
+        <td>ThS.</td>
+        <td><code><a href="mailto:loinh@uit.edu.vn">loinh@uit.edu.vn</a></code></td>
+        <td>GV hướng dẫn thực hành</td>
+      </tr>
+    </tbody>
+  </table>
+</center>
 
 ---
 
 <h2 align="center">🧒 MEMBERS 🧒</h2>
 
-| **STT** | **MEMBER**             |                   **GITHUB USERNAME**                   | **MSSV** |
-| :-----: | :--------------------- | :-----------------------------------------------------: | -------- |
-|    1    | Trần Nguyễn Thái Bình  |      [KevinNitroG](https://github.com/KevinNitroG)      | 23520161 |
-|    2    | Trương Hoàng Khiêm     | [truonghoangkhiem](https://github.com/truonghoangkhiem) | 23520730 |
-|    3    | Nguyễn Thái Gia Nguyễn |        [NTGNguyen](https://github.com/NTGNguyen)        | 23521049 |
-|    4    | Ngô Minh Huy           |      [MinhHuy1507](https://github.com/MinhHuy1507)      | 23520623 |
-|    5    | Dương Thông Tuệ        |   [tueduonggg1203](https://github.com/tueduonggg1203)   | 23521734 |
+<center>
+	<table>
+		<thead>
+			<tr>
+				<th style="text-align: center;"><b>STT</b></th>
+				<th><b>MEMBER</b></th>
+				<th style="text-align: center;"><b>GITHUB USERNAME</b></th>
+				<th style="text-align: center;"><b>MSSV</b></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td style="text-align: center;">1</td>
+				<td>Trần Nguyễn Thái Bình</td>
+				<td style="text-align: center;"><code><a href="https://github.com/KevinNitroG">KevinNitroG</a></code></td>
+				<td style="text-align: center;">23520161</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">1</td>
+				<td>Trương Hoàng Khiêm</td>
+				<td style="text-align: center;"><code><a href="https://github.com/truonghoangkhiem">truonghoangkhiem</a></code></td>
+				<td style="text-align: center;">23520730</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">3</td>
+				<td>Nguyễn Thái Gia Nguyễn</td>
+				<td style="text-align: center;"><code><a href="https://github.com/NTGNguyen">NTGNguyen</a></code></td>
+				<td style="text-align: center;">23521049</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">4</td>
+				<td>Ngô Minh Huy</td>
+				<td style="text-align: center;"><code><a href="https://github.com/MinhHuy1507">MinhHuy1507</a></code></td>
+				<td style="text-align: center;">23520623</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">5</td>
+				<td>Dương Thông Tuệ</td>
+				<td style="text-align: center;"><code><a href="https://github.com/tueduonggg1203">tueduonggg1203</a></code></td>
+				<td style="text-align: center;">23521734</td>
+			</tr>
+		</tbody>
+	</table>
+</center>
 
 ---
 
 <h2 align="center">📁 REPOSITORIES 📂</h2>
 
-|                 **REPO**                  | **INFO**                              | **STT** | **VƯỢT ẢI** |
-| :---------------------------------------: | :------------------------------------ | :-----: | :---------: |
-|        [.github](../../../.github)        | Là repo chứa cái nì nì 🤥             |         |             |
-|      [Utilities](../../../Utilities)      | Tài nguyên thiết yếu _(rác)_          |         |             |
-| [1-167-main-B-K](../../../1-167-main-B-K) | 167 bài hàm main _(Bình & Khiêm)_     |    1    |      3      |
-| [2-167-func-B-K](../../../2-167-func-B-K) | 167 bài chia hàm _(Bình & Khiêm)_     |    2    |      4      |
-| [2-167-func-H-N](../../../2-167-func-H-N) | 167 bài chia hàm _(Huy & Nguyễn)_     |    2    |      4      |
-|    [3-194-array](../../../3-194-array)    | 194 bài mảng 1 chiều                  |    3    |      5      |
-|   [4-172-matrix](../../../4-172-matrix)   | 172 bài mảng 2 chiều                  |    4    |      6      |
-|   [5-258-struct](../../../5-258-struct)   | 258 _(19 + 239)_ bài cấu trúc dữ liệu |    5    |      7      |
-|          [6-?-?](../../../6-?-?)          | ?                                     |    6    |      8      |
-|   [7-200-wecode](../../../7-200-wecode)   | 200 bài trên WeCode                   |    7    |      9      |
+<center>
+	<table>
+		<thead>
+			<tr>
+				<th><b>REPO</b></th>
+				<th><b>INFO</b></th>
+				<th style="text-align: center;"><b>STT</b></th>
+				<th style="text-align: center;"><b>ẢI</b></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><a href="../../../.github">.github</a></td>
+				<td>Là repo chứa cái nì nì 🤥</td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><a href="../../../Utilities">Utilities</a></td>
+				<td>Tài nguyên thiết yếu <i>(rác)</i></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Điền lưu đồ thuật toán & chạy tay</td>
+				<td></td>
+				<td style="text-align: center;">1</td>
+				</tr>
+				<tr>
+				<td></td>
+				<td>Code giấy lưu đồ thuật toán</td>
+				<td></td>
+				<td style="text-align: center;">2</td>
+				</tr>
+			<tr>
+				<td><a href="../../../1-167-main-B-K">1-167-main-B-K</a></td>
+				<td>167 bài hàm main <i>(Bình & Khiêm)</i></td>
+				<td style="text-align: center;">1</td>
+				<td style="text-align: center;">3</td>
+			</tr>
+			<tr>
+				<td><a href="../../../2-167-func-B-K">2-167-func-B-K</a></td>
+				<td>167 bài chia hàm <i>(Bình & Khiêm)</i></td>
+				<td style="text-align: center;">2</td>
+				<td style="text-align: center;">4</td>
+			</tr>
+			<tr>
+				<td><a href="../../../2-167-func-H-N">2-167-func-H-N</a></td>
+				<td>167 bài chia hàm <i>(Huy & Nguyễn)</i></td>
+				<td style="text-align: center;">2</td>
+				<td style="text-align: center;">4</td>
+			</tr>
+			<tr>
+				<td><a href="../../../3-194-array">3-194-array</a></td>
+				<td>194 bài mảng 1 chiều</td>
+				<td style="text-align: center;">3</td>
+				<td style="text-align: center;">5</td>
+			</tr>
+			<tr>
+				<td><a href="../../../4-172-matrix">4-172-matrix</a></td>
+				<td>172 bài mảng 2 chiều</td>
+				<td style="text-align: center;">4</td>
+				<td style="text-align: center;">6</td>
+			</tr>
+			<tr>
+				<td><a href="../../../5-258-struct">5-258-struct</a></td>
+				<td>258 <i>(19 + 239)</i> bài cấu trúc dữ liệu</td>
+				<td style="text-align: center;">5</td>
+				<td style="text-align: center;">7</td>
+			</tr>
+			<tr>
+				<td><a href="../../../6-191-recursion">6-191-recursion</a></td>
+				<td>191 bài đệ quy</td>
+				<td style="text-align: center;">6</td>
+				<td style="text-align: center;">8</td>
+			</tr>
+			<tr>
+				<td><a href="../../../7-200-wecode">7-200-wecode</a></td>
+				<td>200 bài trên WeCode</td>
+				<td style="text-align: center;">7</td>
+				<td style="text-align: center;">9</td>
+			</tr>
+		</tbody>
+	</table>
+</center>
 
 <!--|  [NTTMK-lessons](../../../NTTMK-lessons)  | no comment                             |             |-->
-
-> **Note**
->
-> **Ải 1:** Điền lưu đồ thuật toán & chạy tay
->
-> **Ải 2:** Code giấy lưu đồ thuật toán
 
 ---
 
@@ -77,7 +209,7 @@
 
 <h2 align="center">🤖 BOT, FORMAT 🔨</h2>
 
-<div class="svg-container" align="left">
+<div class="svg-container" align="center">
     <img height="44px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
     <img height="44px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
     <img height="44px" src="/img/codefactor-icon-svgrepo-com.svg" alt="CodeFactor" />
