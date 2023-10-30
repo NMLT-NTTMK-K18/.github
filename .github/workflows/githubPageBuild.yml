@@ -43,7 +43,8 @@ jobs:
         run: |
           git clone https://${{ env.GITHUB_TOKEN }}@github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io Github-Page-Repo --depth 1
           cp profile/README.md Github-Page-Repo/README.md
-          cp -rp img/* Github-Page-Repo/img/
+          mkdir Github-Page-Repo/img
+          cp -r --parents img/* Github-Page-Repo/img/
           cd Github-Page-Repo
           if ! git status | grep "nothing to commit" > /dev/null 2>&1; then
             git add .
