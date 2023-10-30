@@ -1,0 +1,51 @@
+name: Github Page build for Organisation
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+  workflow_dispatch:
+
+env:
+  USERNAME: ${{ vars.ACTION_RUNNER_USERNAME }}
+  EMAIL: ${{ vars.ACTION_RUNNER_EMAIL }}
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+permissions: write-all
+
+jobs:
+  page:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup user
+        run: |
+          if [ -n "${{ env.EMAIL }}" ]; then
+            git config --global user.email ${{ env.EMAIL }}
+          else
+            git config --global user.email "action@github.com"
+          fi
+          if [ -n "${{ env.USERNAME }}" ]; then
+            git config --global user.name ${{ env.USERNAME }}
+          else
+            git config --global user.name "GitHub Action"
+          fi
+
+      - name: Setup NMLT NTTMK K18 repo
+        run: |
+          git clone https://github.com/NMLT-NTTMK-K18/NMLT-NTTMK-K18 Github-Page-Repo --depth 1
+          copy profile/README.md Github-Page-Repo/README.md
+          cd Github-Page-Repo
+          if ! git status -uno | grep "nothing to commit" > /dev/null 2>&1; then
+            git add .
+            git commit -m "Update README.md"
+            git push
+          else
+            echo "Nothing to commit"
+          fi
