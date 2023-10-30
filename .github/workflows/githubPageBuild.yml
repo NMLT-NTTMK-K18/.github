@@ -40,7 +40,7 @@ jobs:
       - name: Setup NMLT NTTMK K18 repo
         run: |
           git clone https://github.com/NMLT-NTTMK-K18/NMLT-NTTMK-K18 Github-Page-Repo --depth 1
-          copy profile/README.md Github-Page-Repo/README.md
+          cp profile/README.md Github-Page-Repo/README.md
           cd Github-Page-Repo
           if ! git status -uno | grep "nothing to commit" > /dev/null 2>&1; then
             git add .
