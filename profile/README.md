@@ -25,7 +25,7 @@
 <h2 align="center">🧑‍🏫 LECTURERS 👨‍🏫</h2>
 
 <div align="center">
-	<table>
+	<table align="center">
 		<thead>
 			<tr>
 				<th><b>NAME</B></th>
@@ -62,7 +62,7 @@
 <h2 align="center">🧒 MEMBERS 🧒</h2>
 
 <div align="center">
-	<table>
+	<table align="center">
 		<thead>
 			<tr>
 				<th align="center"><b>STT</b></th>
@@ -111,7 +111,7 @@
 <h2 align="center">📁 REPOSITORIES 📂</h2>
 
 <div align="center">
-	<table>
+	<table align="center">
 		<thead>
 			<tr>
 				<th align="left"><b>REPO</b></th>
