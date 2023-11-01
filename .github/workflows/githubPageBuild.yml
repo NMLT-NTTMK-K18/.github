@@ -38,7 +38,7 @@ jobs:
           fi
 
       - name: Setup NMLT NTTMK K18 repo
-        run: script/githubPageSetup.sh ${{ secrets.USER_GITHUB_TOKEN }}
+        run: scripts/githubPageSetup.sh ${{ secrets.USER_GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         working-directory: Github-Page-Repo
