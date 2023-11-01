@@ -16,4 +16,4 @@ fi
 mkdir Github-Page-Repo/docs/img
 
 cp profile/README.md Github-Page-Repo/docs/README.md
-cp -r ./img/ ./Github-Page-Repo/docs/img/
+cp -r ./img/ ./Github-Page-Repo/docs/
