@@ -1,7 +1,7 @@
-<h1 align="center"><a href="https://nmlt-nttmk-k18.github.io/" style="color: inherit; text-decoration: none;">😨 NMLT - NTTMK - K18 😵‍💫</a></h1>
+<h1 align="center"><a href="https://github.com/NMLT-NTTMK-K18" style="color: inherit; text-decoration: none;">😨 NMLT - NTTMK - K18 😵‍💫</a></h1>
 
 <div align="center">
-	<a href="https://nmlt-nttmk-k18.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&pause=800&color=FDFFB6&background=222436&center=true&vCenter=true&random=true&width=500&lines=UIT;NH%E1%BA%ACP+M%C3%94N+L%E1%BA%ACP+TR%C3%8CNH;NGUY%E1%BB%84N+T%E1%BA%A4N+TR%E1%BA%A6N+MINH+KHANG;1000+B%C3%80I+CODE+THI%E1%BA%BEU+NHI;NMLT+NTTMK+K18;TR%C6%AF%E1%BB%9CNG+%C4%90%E1%BA%A0I+H%E1%BB%8CC+C%C3%94NG+NGH%E1%BB%86+TH%C3%94NG+TIN" alt="Typing SVG" /></a>
+	<a href="https://github.com/NMLT-NTTMK-K18"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&pause=800&color=FDFFB6&background=222436&center=true&vCenter=true&random=true&width=500&lines=UIT;NH%E1%BA%ACP+M%C3%94N+L%E1%BA%ACP+TR%C3%8CNH;NGUY%E1%BB%84N+T%E1%BA%A4N+TR%E1%BA%A6N+MINH+KHANG;1000+B%C3%80I+CODE+THI%E1%BA%BEU+NHI;NMLT+NTTMK+K18;TR%C6%AF%E1%BB%9CNG+%C4%90%E1%BA%A0I+H%E1%BB%8CC+C%C3%94NG+NGH%E1%BB%86+TH%C3%94NG+TIN" alt="Typing SVG" /></a>
 </div>
 
 <!-- Source: https://git.io/typing-svg-->
