@@ -1,3 +1,14 @@
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>NMLT - NTTMK - K18</title>
+	<link
+		rel="icon"
+		href="https://cdn.jsdelivr.net/gh/NMLT-NTTMK-K18/Utilities@main/img/avatar/20220825p1_cat_freepik.svg?"
+		type="image/svg+xml"
+	/>
+</head>
+
 <h1 align="center"><a href="https://nmlt-nttmk-k18.github.io/">😨 NMLT - NTTMK - K18 😵‍💫</a></h1>
 
 <div align="center">
