@@ -6,5 +6,5 @@ git clone https://$USER_GITHUB_TOKEN@github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.gi
 
 rm -rf ./Github-Page-Repo/docs/
 
-cp profile/README.md Github-Page-Repo/docs/README.md
-cp -r ./img/ ./Github-Page-Repo/docs/img/
+cp profile/README.md Github-Page-Repo/docs/
+cp -r ./img/ ./Github-Page-Repo/docs/
