@@ -45,7 +45,7 @@ jobs:
         run: |
           if ! git status | grep "nothing to commit" > /dev/null 2>&1; then
             git add .
-            git commit -m "Update README.md"
+            git commit -m "Update github page folder at $(TZ="Asia/Bangkok" date "+%d-%m-%y at %I:%M %p")"
             git push
           else
             echo "Nothing to commit"
