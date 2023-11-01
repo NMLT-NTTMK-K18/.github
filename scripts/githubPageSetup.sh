@@ -9,11 +9,11 @@ folder_path="path/to/your/folder"
 if [ ! -d "./Github-Page-Repo/docs" ]; then
     mkdir -p "./Github-Page-Repo/docs"
     echo "Folder Github-Page-Repo/docs has been created."
-elif [ ! -d "./Github-Page-Repo/docs/img" ]; then
+elif [ -d "./Github-Page-Repo/docs/img" ]; then
     rm -rf ./Github-Page-Repo/docs/img/
-    echo "Removed img folders."
+    mkdir Github-Page-Repo/docs/img
+    echo "Re-create img folders"
 fi
-mkdir Github-Page-Repo/docs/img
 
 cp -f profile/README.md Github-Page-Repo/docs/README.md
 cp -r ./img/ ./Github-Page-Repo/docs/
