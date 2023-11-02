@@ -27,38 +27,36 @@
 <h2 align="center">🧑‍🏫 LECTURERS 👨‍🏫</h2>
 
 <div align="center">
-	<center>
-		<table class="center-table">
-			<thead>
-				<tr>
-					<th><b>NAME</B></th>
-					<th><b>ACADEMIC DEGREE</B></th>
-					<th><b>EMAIL</B></th>
-					<th><b>ROLE</B></th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>Nguyễn Tấn Trần Minh Khang</td>
-					<td>TS.</td>
-					<td><code><a href="mailto:khangnttm@uit.edu.vn">khangnttm@uit.edu.vn</a></code></td>
-					<td>GV lý thuyết</td>
-				</tr>
-				<tr>
-					<td>Võ Duy Nguyên</td>
-					<td>ThS.</td>
-					<td><code><a href="mailto:nguyenvd@uit.edu.vn">nguyenvd@uit.edu.vn</a></code></td>
-					<td>GV lý thuyết</td>
-				</tr>
-				<tr>
-					<td>Nguyễn Hữu Lợi</td>
-					<td>ThS.</td>
-					<td><code><a href="mailto:loinh@uit.edu.vn">loinh@uit.edu.vn</a></code></td>
-					<td>GV hướng dẫn thực hành</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
+	<table style="display: contents;">
+		<thead>
+			<tr>
+				<th><b>NAME</B></th>
+				<th><b>ACADEMIC DEGREE</B></th>
+				<th><b>EMAIL</B></th>
+				<th><b>ROLE</B></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Nguyễn Tấn Trần Minh Khang</td>
+				<td>TS.</td>
+				<td><code><a href="mailto:khangnttm@uit.edu.vn">khangnttm@uit.edu.vn</a></code></td>
+				<td>GV lý thuyết</td>
+			</tr>
+			<tr>
+				<td>Võ Duy Nguyên</td>
+				<td>ThS.</td>
+				<td><code><a href="mailto:nguyenvd@uit.edu.vn">nguyenvd@uit.edu.vn</a></code></td>
+				<td>GV lý thuyết</td>
+			</tr>
+			<tr>
+				<td>Nguyễn Hữu Lợi</td>
+				<td>ThS.</td>
+				<td><code><a href="mailto:loinh@uit.edu.vn">loinh@uit.edu.vn</a></code></td>
+				<td>GV hướng dẫn thực hành</td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 
 ---
@@ -66,50 +64,48 @@
 <h2 align="center">🧒 MEMBERS 🧒</h2>
 
 <div align="center">
-	<center>
-		<table class="center-table">
-			<thead>
-				<tr>
-					<th align="center"><b>STT</b></th>
-					<th align="left"><b>MEMBER</b></th>
-					<th align="center"><b>GITHUB USERNAME</b></th>
-					<th align="center"><b>MSSV</b></th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td align="center">1</td>
-					<td>Trần Nguyễn Thái Bình</td>
-					<td align="center"><code><a href="https://github.com/KevinNitroG">KevinNitroG</a></code></td>
-					<td align="center"><code>23520161</code></td>
-				</tr>
-				<tr>
-					<td align="center">1</td>
-					<td>Trương Hoàng Khiêm</td>
-					<td align="center"><code><a href="https://github.com/truonghoangkhiem">truonghoangkhiem</a></code></td>
-					<td align="center"><code>23520730</code></td>
-				</tr>
-				<tr>
-					<td align="center">3</td>
-					<td>Nguyễn Thái Gia Nguyễn</td>
-					<td align="center"><code><a href="https://github.com/NTGNguyen">NTGNguyen</a></code></td>
-					<td align="center"><code>23521049</code></td>
-				</tr>
-				<tr>
-					<td align="center">4</td>
-					<td>Ngô Minh Huy</td>
-					<td align="center"><code><a href="https://github.com/MinhHuy1507">MinhHuy1507</a></code></td>
-					<td align="center"><code>23520623</code></td>
-				</tr>
-				<tr>
-					<td align="center">5</td>
-					<td>Dương Thông Tuệ</td>
-					<td align="center"><code><a href="https://github.com/tueduonggg1203">tueduonggg1203</a></code></td>
-					<td align="center"><code>23521734</code></td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
+	<table style="display: contents;">
+		<thead>
+			<tr>
+				<th align="center"><b>STT</b></th>
+				<th align="left"><b>MEMBER</b></th>
+				<th align="center"><b>GITHUB USERNAME</b></th>
+				<th align="center"><b>MSSV</b></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">1</td>
+				<td>Trần Nguyễn Thái Bình</td>
+				<td align="center"><code><a href="https://github.com/KevinNitroG">KevinNitroG</a></code></td>
+				<td align="center"><code>23520161</code></td>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Trương Hoàng Khiêm</td>
+				<td align="center"><code><a href="https://github.com/truonghoangkhiem">truonghoangkhiem</a></code></td>
+				<td align="center"><code>23520730</code></td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Nguyễn Thái Gia Nguyễn</td>
+				<td align="center"><code><a href="https://github.com/NTGNguyen">NTGNguyen</a></code></td>
+				<td align="center"><code>23521049</code></td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Ngô Minh Huy</td>
+				<td align="center"><code><a href="https://github.com/MinhHuy1507">MinhHuy1507</a></code></td>
+				<td align="center"><code>23520623</code></td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>Dương Thông Tuệ</td>
+				<td align="center"><code><a href="https://github.com/tueduonggg1203">tueduonggg1203</a></code></td>
+				<td align="center"><code>23521734</code></td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 
 ---
@@ -117,116 +113,114 @@
 <h2 align="center">📁 REPOSITORIES 📂</h2>
 
 <div align="center">
-	<center>
-		<table class="center-table">
-			<thead>
-				<tr>
-					<th align="left"><b>REPO</b></th>
-					<th align="left"><b>INFO</b></th>
-					<th><b>STT</b></th>
-					<th><b>ẢI</b></th>
-					<th><b>SỐ BÀI</b></th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td><a href="../../../.github">.github</a></td>
-					<td>Là repo chứa cái nì nì 🤥</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td><a href="../../../.nmlt-nttmk-k18.github.io">.nmlt-nttmk-k18.github.io</a></td>
-					<td>Repo Github Page cho Organisation</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td><a href="../../../Utilities">Utilities</a></td>
-					<td>Tài nguyên thiết yếu <i>(rác)</i></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Điền lưu đồ thuật toán & chạy tay</td>
-					<td></td>
-					<td align="center">1</td>
-					<td align="center">167</td>
-					</tr>
-					<tr>
-					<td></td>
-					<td>Code giấy lưu đồ thuật toán</td>
-					<td></td>
-					<td align="center">2</td>
-					<td align="center">167</td>
-					</tr>
-				<tr>
-					<td><a href="../../../1-167-main-B-K">1-167-main-B-K</a></td>
-					<td>Hàm main <i>(Bình & Khiêm)</i></td>
-					<td align="center">1</td>
-					<td align="center">3</td>
-					<td align="center">167</td>
+	<table style="display: contents;">
+		<thead>
+			<tr>
+				<th align="left"><b>REPO</b></th>
+				<th align="left"><b>INFO</b></th>
+				<th><b>STT</b></th>
+				<th><b>ẢI</b></th>
+				<th><b>SỐ BÀI</b></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><a href="../../../.github">.github</a></td>
+				<td>Là repo chứa cái nì nì 🤥</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><a href="../../../.nmlt-nttmk-k18.github.io">.nmlt-nttmk-k18.github.io</a></td>
+				<td>Repo Github Page cho Organisation</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><a href="../../../Utilities">Utilities</a></td>
+				<td>Tài nguyên thiết yếu <i>(rác)</i></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Điền lưu đồ thuật toán & chạy tay</td>
+				<td></td>
+				<td align="center">1</td>
+				<td align="center">167</td>
 				</tr>
 				<tr>
-					<td><a href="../../../2-167-func-B-K">2-167-func-B-K</a></td>
-					<td>Hàm <i>(Bình & Khiêm)</i></td>
-					<td align="center">2</td>
-					<td align="center">4</td>
-					<td align="center">167</td>
+				<td></td>
+				<td>Code giấy lưu đồ thuật toán</td>
+				<td></td>
+				<td align="center">2</td>
+				<td align="center">167</td>
 				</tr>
-				<tr>
-					<td><a href="../../../2-167-func-H-N">2-167-func-H-N</a></td>
-					<td>Hàm<i>(Huy & Nguyễn)</i></td>
-					<td align="center">2</td>
-					<td align="center">4</td>
-					<td align="center">167</td>
-				</tr>
-				<tr>
-					<td><a href="../../../3-194-array">3-194-array</a></td>
-					<td>Mảng một chiều</td>
-					<td align="center">3</td>
-					<td align="center">5</td>
-					<td align="center">194</td>
-				</tr>
-				<tr>
-					<td><a href="../../../4-172-matrix">4-172-matrix</a></td>
-					<td>Mảng hai chiều</td>
-					<td align="center">4</td>
-					<td align="center">6</td>
-					<td align="center">172</td>
-				</tr>
-				<tr>
-					<td><a href="../../../5-258-struct">5-258-struct</a></td>
-					<td>Cấu trúc dữ liệu</td>
-					<td align="center">5</td>
-					<td align="center">7</td>
-					<td align="center">258</td>
-				</tr>
-				<tr>
-					<td><a href="../../../6-191-recursion">6-191-recursion</a></td>
-					<td>Đệ quy</td>
-					<td align="center">6</td>
-					<td align="center">8</td>
-					<td align="center">191</td>
-				</tr>
-				<tr>
-					<td><a href="../../../7-200-wecode">7-200-wecode</a></td>
-					<td>WeCode</td>
-					<td align="center">7</td>
-					<td align="center">9</td>
-					<td align="center">200</td>
-				</tr>
-				<tr>
-					<td colspan="4" align="center"><strong>TỔNG SỐ BÀI TẬP</strong></td>
-					<td align="center"><strong>1683</strong></td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
+			<tr>
+				<td><a href="../../../1-167-main-B-K">1-167-main-B-K</a></td>
+				<td>Hàm main <i>(Bình & Khiêm)</i></td>
+				<td align="center">1</td>
+				<td align="center">3</td>
+				<td align="center">167</td>
+			</tr>
+			<tr>
+				<td><a href="../../../2-167-func-B-K">2-167-func-B-K</a></td>
+				<td>Hàm <i>(Bình & Khiêm)</i></td>
+				<td align="center">2</td>
+				<td align="center">4</td>
+				<td align="center">167</td>
+			</tr>
+			<tr>
+				<td><a href="../../../2-167-func-H-N">2-167-func-H-N</a></td>
+				<td>Hàm<i>(Huy & Nguyễn)</i></td>
+				<td align="center">2</td>
+				<td align="center">4</td>
+				<td align="center">167</td>
+			</tr>
+			<tr>
+				<td><a href="../../../3-194-array">3-194-array</a></td>
+				<td>Mảng một chiều</td>
+				<td align="center">3</td>
+				<td align="center">5</td>
+				<td align="center">194</td>
+			</tr>
+			<tr>
+				<td><a href="../../../4-172-matrix">4-172-matrix</a></td>
+				<td>Mảng hai chiều</td>
+				<td align="center">4</td>
+				<td align="center">6</td>
+				<td align="center">172</td>
+			</tr>
+			<tr>
+				<td><a href="../../../5-258-struct">5-258-struct</a></td>
+				<td>Cấu trúc dữ liệu</td>
+				<td align="center">5</td>
+				<td align="center">7</td>
+				<td align="center">258</td>
+			</tr>
+			<tr>
+				<td><a href="../../../6-191-recursion">6-191-recursion</a></td>
+				<td>Đệ quy</td>
+				<td align="center">6</td>
+				<td align="center">8</td>
+				<td align="center">191</td>
+			</tr>
+			<tr>
+				<td><a href="../../../7-200-wecode">7-200-wecode</a></td>
+				<td>WeCode</td>
+				<td align="center">7</td>
+				<td align="center">9</td>
+				<td align="center">200</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="center"><strong>TỔNG SỐ BÀI TẬP</strong></td>
+				<td align="center"><strong>1683</strong></td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 
 ---
