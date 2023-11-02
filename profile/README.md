@@ -231,7 +231,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,md,regex,bash,git,github,githubactions,visualstudio,vscode&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,cpp,py,md,bash,git,github,githubactions,visualstudio,vscode,regex&perline=6&theme=dark" />
   </a>
 </p>
 
