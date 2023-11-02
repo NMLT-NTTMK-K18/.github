@@ -215,11 +215,13 @@
 				<td align="center">9</td>
 				<td align="center">200</td>
 			</tr>
+		</tbody>
+		<tfoot>
 			<tr>
 				<td colspan="4" align="center"><strong>TỔNG SỐ BÀI TẬP</strong></td>
 				<td align="center"><strong>1683</strong></td>
 			</tr>
-		</tbody>
+		</tfoot>
 	</table>
 </div>
 
