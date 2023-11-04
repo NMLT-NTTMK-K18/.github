@@ -243,7 +243,7 @@
     <img height="44px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
     <img height="44px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
     <img height="44px" src="/img/codefactor-icon-svgrepo-com.svg" alt="CodeFactor" />
-    <img height="44px" src="/img/gitguardian.svg" alt="Gitguardian" />
+    <img height="44px" src="/img/gitguardian_crop_1x1.png" alt="Gitguardian" />
     <br>
     <img height="44px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
     <img height="44px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
