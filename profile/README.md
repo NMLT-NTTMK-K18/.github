@@ -173,7 +173,7 @@
 			</tr>
 			<tr>
 				<td><a href="../../../2-167-func-H-N">2-167-func-H-N</a></td>
-				<td>Hàm<i>(Huy & Nguyễn)</i></td>
+				<td>Hàm <i>(Huy & Nguyễn)</i></td>
 				<td align="center">2</td>
 				<td align="center">4</td>
 				<td align="center">167</td>
