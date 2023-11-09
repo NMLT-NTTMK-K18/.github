@@ -26,10 +26,10 @@
 	<table style="display: contents;">
 		<thead>
 			<tr>
-				<th><b>NAME</B></th>
-				<th><b>ACADEMIC DEGREE</B></th>
-				<th><b>EMAIL</B></th>
-				<th><b>ROLE</B></th>
+				<th><strong>NAME</strong></th>
+				<th><strong>ACADEMIC DEGREE</strong></th>
+				<th><strong>EMAIL</strong></th>
+				<th><strong>ROLE</strong></th>
 			</tr>
 		</thead>
 		<tbody>
@@ -63,10 +63,10 @@
 	<table style="display: contents;">
 		<thead>
 			<tr>
-				<th align="center"><b>STT</b></th>
-				<th align="left"><b>MEMBER</b></th>
-				<th align="center"><b>GITHUB USERNAME</b></th>
-				<th align="center"><b>MSSV</b></th>
+				<th align="center"><strong>STT</strong></th>
+				<th align="left"><strong>MEMBER</strong></th>
+				<th align="center"><strong>GITHUB USERNAME</strong></th>
+				<th align="center"><strong>MSSV</strong></th>
 			</tr>
 		</thead>
 		<tbody>
@@ -112,66 +112,66 @@
 	<table style="display: contents;">
 		<thead>
 			<tr>
-				<th align="left"><b>REPO</b></th>
-				<th align="left"><b>INFO</b></th>
-				<th><b>STT</b></th>
-				<th><b>ẢI</b></th>
-				<th><b>SỐ BÀI</b></th>
-				<th align="left"><b>START</b></th>
-				<th align="left"><b>END</b></th>
-				<th align="left"><b>DAYS</b></th>
+				<th align="left"><strong>REPO</strong></th>
+				<th align="left"><strong>INFO</strong></th>
+				<th align="center"><strong>STT</strong></th>
+				<th align="center"><strong>ẢI</strong></th>
+				<th align="center"><strong>SỐ BÀI</strong></th>
+				<th align="center"><strong>START</strong></th>
+				<th align="center"><strong>END</strong></th>
+				<th align="center"><strong>DAYS</strong></th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<td><a href="../../../.github">.github</a></td>
 				<td>Là repo chứa cái nì nì 🤥</td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
 			</tr>
 			<tr>
 				<td><a href="../../../nmlt-nttmk-k18.github.io">nmlt-nttmk-k18.github.io</a></td>
 				<td>Repo Github Page cho Organisation</td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
 			</tr>
 			<tr>
 				<td><a href="../../../Utilities">Utilities</a></td>
 				<td>Tài nguyên thiết yếu <i>(rác)</i></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
 			</tr>
 			<tr>
 				<td></td>
 				<td>Điền lưu đồ thuật toán & chạy tay</td>
-				<td></td>
+				<td align="center"></td>
 				<td align="center">1</td>
 				<td align="center">167</td>
-				<td>11/9/23</td>
-				<td>25/9/23</td>
-				<td>14</td>
+				<td align="center">11/9/23</td>
+				<td align="center">25/9/23</td>
+				<td align="center">14</td>
 			</tr>
 			<tr>
 				<td></td>
 				<td>Code giấy lưu đồ thuật toán</td>
-				<td></td>
+				<td align="center"></td>
 				<td align="center">2</td>
 				<td align="center">167</td>
-				<td>11/9/23</td>
-				<td>25/9/23</td>
-				<td>14</td>
+				<td align="center">11/9/23</td>
+				<td align="center">25/9/23</td>
+				<td align="center">14</td>
 			</tr>
 			<tr>
 				<td><a href="../../../1-167-main-B-K">1-167-main-B-K</a></td>
@@ -179,9 +179,9 @@
 				<td align="center">1</td>
 				<td align="center">3</td>
 				<td align="center">167</td>
-				<td>18/9/23</td>
-				<td>3/10/23</td>
-				<td>15</td>
+				<td align="center">18/9/23</td>
+				<td align="center">3/10/23</td>
+				<td align="center">15</td>
 			</tr>
 			<tr>
 				<td><a href="../../../2-167-func-B-K">2-167-func-B-K</a></td>
@@ -189,9 +189,9 @@
 				<td align="center">2</td>
 				<td align="center">4</td>
 				<td align="center">167</td>
-				<td>25/9/23</td>
-				<td>11/10/23</td>
-				<td>16</td>
+				<td align="center">25/9/23</td>
+				<td align="center">11/10/23</td>
+				<td align="center">16</td>
 			</tr>
 			<tr>
 				<td><a href="../../../2-167-func-H-N">2-167-func-H-N</a></td>
@@ -199,9 +199,9 @@
 				<td align="center">2</td>
 				<td align="center">4</td>
 				<td align="center">167</td>
-				<td>25/9/23</td>
-				<td>11/10/23</td>
-				<td>16</td>
+				<td align="center">25/9/23</td>
+				<td align="center">11/10/23</td>
+				<td align="center">16</td>
 			</tr>
 			<tr>
 				<td><a href="../../../3-194-array">3-194-array</a></td>
@@ -209,9 +209,9 @@
 				<td align="center">3</td>
 				<td align="center">5</td>
 				<td align="center">194</td>
-				<td>2/10/23</td>
-				<td>14/10/23</td>
-				<td>12</td>
+				<td align="center">2/10/23</td>
+				<td align="center">14/10/23</td>
+				<td align="center">12</td>
 			</tr>
 			<tr>
 				<td><a href="../../../4-172-matrix">4-172-matrix</a></td>
@@ -219,9 +219,9 @@
 				<td align="center">4</td>
 				<td align="center">6</td>
 				<td align="center">172</td>
-				<td>9/10/23</td>
-				<td>10/11/23</td>
-				<td>32</td>
+				<td align="center">9/10/23</td>
+				<td align="center">10/11/23</td>
+				<td align="center">32</td>
 			</tr>
 			<tr>
 				<td><a href="../../../5-258-struct">5-258-struct</a></td>
@@ -229,9 +229,9 @@
 				<td align="center">5</td>
 				<td align="center">7</td>
 				<td align="center">258</td>
-				<td>9/10/23</td>
-				<td>10/11/23</td>
-				<td>32</td>
+				<td align="center">9/10/23</td>
+				<td align="center">10/11/23</td>
+				<td align="center">32</td>
 			</tr>
 			<tr>
 				<td><a href="../../../6-191-recursion">6-191-recursion</a></td>
@@ -239,9 +239,9 @@
 				<td align="center">6</td>
 				<td align="center">8</td>
 				<td align="center">191</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td align="center"></td>
+				<td align="center"></td>
+				<td align="center"></td>
 			</tr>
 			<tr>
 				<td><a href="../../../7-200-wecode">7-200-wecode</a></td>
@@ -249,18 +249,18 @@
 				<td align="center">7</td>
 				<td align="center">9</td>
 				<td align="center">200</td>
-				<td>23/10/23</td>
-				<td></td>
-				<td></td>
+				<td align="center">23/10/23</td>
+				<td align="center"></td>
+				<td align="center"></td>
 			</tr>
 		</tbody>
 		<tfoot>
 			<tr>
 				<td colspan="4" align="center"><strong>TỔNG SỐ BÀI TẬP</strong></td>
 				<td align="center"><strong>1683</strong></td>
-				<td>11/9/23</td>
-				<td></td>
-				<td></td>
+				<td align="center"><strong>11/9/23</strong></td>
+				<td align="center"></td>
+				<td align="center"></td>
 			</tr>
 		</tfoot>
 	</table>
