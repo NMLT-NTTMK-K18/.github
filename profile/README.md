@@ -17,6 +17,7 @@
 	<img src="https://img.shields.io/badge/License-MIT-bdb2ff?style=for-the-badge" alt="LICENSE - MIT">
 	<img src="https://img.shields.io/badge/OS-Windows-a0c4ff?style=for-the-badge&logo=windows%2011" alt="OS - Windows">
 	<img src="https://img.shields.io/badge/EOL-CRLF-9bf6ff?style=for-the-badge" alt="End Of Line - Carriage Return Line Feed">
+	<img src="https://hits.sh/nmlt-nttmk-k18.github.io.svg?view=today-total&style=for-the-badge&label=hits&color=caffbf" alt="Hits counter">
 </div>
 
 ---
