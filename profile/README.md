@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/Ng%C3%A0nh-CS-fdffb6?style=for-the-badge" alt="Ngành - khoa học máy tính">
 	<img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-ffd6a5?style=for-the-badge" alt="Môn - Nhập môn lập trình">
 	<img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-ffadad?style=for-the-badge" alt="Ngôn ngữ - C++">
-	<img src="https://img.shields.io/badge/s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20b%C3%A0i%20t%E1%BA%ADp-1782-ffc6ff?style=for-the-badge" alt="Số lượng bài tập - 1782">
+	<img src="https://img.shields.io/badge/s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20b%C3%A0i%20t%E1%BA%ADp-1782-ffc6ff?style=for-the-badge" alt="Số lượng bài tập - 1643">
 	<img src="https://img.shields.io/badge/License-MIT-bdb2ff?style=for-the-badge" alt="LICENSE - MIT">
 	<img src="https://img.shields.io/badge/OS-Windows-a0c4ff?style=for-the-badge&logo=windows%2011" alt="OS - Windows">
 	<img src="https://img.shields.io/badge/EOL-CRLF-9bf6ff?style=for-the-badge" alt="End Of Line - Carriage Return Line Feed">
@@ -246,23 +246,23 @@
 				<td align="center">18</td>
 			</tr>
 			<tr>
-				<td><a href="../../../7-200-wecode">7-200-wecode</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/7-200-wecode">7-61-wecode</a></td>
 				<td>WeCode</td>
 				<td align="center">7</td>
 				<td align="center">9</td>
 				<td align="center">200</td>
 				<td align="center">23/10/23</td>
-				<td align="center"></td>
-				<td align="center"></td>
+				<td align="center">20/11/23</td>
+				<td align="center">28</td>
 			</tr>
 		</tbody>
 		<tfoot>
 			<tr>
 				<td colspan="4" align="center"><strong>TỔNG SỐ BÀI TẬP</strong></td>
-				<td align="center"><strong>1782</strong></td>
+				<td align="center"><strong>1643</strong></td>
 				<td align="center"><strong>11/9/23</strong></td>
-				<td align="center"></td>
-				<td align="center"></td>
+				<td align="center"><strong>1/1/24</strong></td>
+				<td align="center"><strong>70</strong></td>
 			</tr>
 		</tfoot>
 	</table>
