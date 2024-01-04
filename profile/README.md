@@ -246,11 +246,11 @@
 				<td align="center">18</td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/NMLT-NTTMK-K18/7-200-wecode">7-61-wecode</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/7-61-wecode">7-61-wecode</a></td>
 				<td>WeCode</td>
 				<td align="center">7</td>
 				<td align="center">9</td>
-				<td align="center">200</td>
+				<td align="center">61</td>
 				<td align="center">23/10/23</td>
 				<td align="center">20/11/23</td>
 				<td align="center">28</td>
@@ -261,8 +261,8 @@
 				<td colspan="4" align="center"><strong>TỔNG SỐ BÀI TẬP</strong></td>
 				<td align="center"><strong>1643</strong></td>
 				<td align="center"><strong>11/9/23</strong></td>
-				<td align="center"><strong>1/1/24</strong></td>
-				<td align="center"><strong>70</strong></td>
+				<td align="center"><strong>4/1/24</strong></td>
+				<td align="center"><strong>73</strong></td>
 			</tr>
 		</tfoot>
 	</table>
