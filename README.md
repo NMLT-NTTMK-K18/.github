@@ -10,11 +10,9 @@ Repo này để hiện ra trong overview thôi, dô đây chi ní? 🤨
 
 ---
 
-## FLEX
+## ĐIỂM _(chắc chắn là không flex)_
 
-Flex tí điểm
-
-## ĐIỂM QUÁ TRÌNH
+-   Điểm các lab: [Excel](img/Diem/IT001.NMLT.xlsx)
 
 -   Lý thuyết
     ![Điểm quá trình - Lý thuyết](img/Diem/DiemQuaTrinh-LyThuyet.jpg)
