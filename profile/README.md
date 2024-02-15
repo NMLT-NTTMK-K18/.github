@@ -99,7 +99,7 @@
 			<tr>
 				<td align="center">5</td>
 				<td>Dương Thông Tuệ</td>
-				<td align="center"><code><a href="https://github.com/tueduonggg1203">tueduonggg1203</a></code></td>
+				<td align="center"><code><a href="https://github.com/tueduong05">tueduong05</a></code></td>
 				<td align="center"><code>23521734</code></td>
 			</tr>
 		</tbody>
@@ -126,7 +126,7 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="../../../.github">.github</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/.github">.github</a></td>
 				<td>Là repo chứa cái nì nì 🤥</td>
 				<td align="center"></td>
 				<td align="center"></td>
@@ -136,7 +136,7 @@
 				<td align="center"></td>
 			</tr>
 			<tr>
-				<td><a href="../../../nmlt-nttmk-k18.github.io">nmlt-nttmk-k18.github.io</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io">nmlt-nttmk-k18.github.io</a></td>
 				<td>Repo Github Page cho Organisation</td>
 				<td align="center"></td>
 				<td align="center"></td>
@@ -146,7 +146,7 @@
 				<td align="center"></td>
 			</tr>
 			<tr>
-				<td><a href="../../../Utilities">Utilities</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/Utilities">Utilities</a></td>
 				<td>Tài nguyên thiết yếu <i>(rác)</i></td>
 				<td align="center"></td>
 				<td align="center"></td>
@@ -176,7 +176,7 @@
 				<td align="center">7</td>
 			</tr>
 			<tr>
-				<td><a href="../../../1-167-main-B-K">1-167-main-B-K</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/1-167-main-B-K">1-167-main-B-K</a></td>
 				<td>Hàm main <i>(Bình & Khiêm)</i></td>
 				<td align="center">1</td>
 				<td align="center">3</td>
@@ -186,7 +186,7 @@
 				<td align="center">15</td>
 			</tr>
 			<tr>
-				<td><a href="../../../2-167-func-B-K">2-167-func-B-K</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/2-167-func-B-K">2-167-func-B-K</a></td>
 				<td>Hàm <i>(Bình & Khiêm)</i></td>
 				<td align="center">2</td>
 				<td align="center">4</td>
@@ -196,7 +196,7 @@
 				<td align="center">16</td>
 			</tr>
 			<tr>
-				<td><a href="../../../2-167-func-H-N">2-167-func-H-N</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/2-167-func-H-N">2-167-func-H-N</a></td>
 				<td>Hàm <i>(Huy & Nguyễn)</i></td>
 				<td align="center">2</td>
 				<td align="center">4</td>
@@ -206,7 +206,7 @@
 				<td align="center">16</td>
 			</tr>
 			<tr>
-				<td><a href="../../../3-194-array">3-194-array</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/3-194-array">3-194-array</a></td>
 				<td>Mảng một chiều</td>
 				<td align="center">3</td>
 				<td align="center">5</td>
@@ -216,7 +216,7 @@
 				<td align="center">12</td>
 			</tr>
 			<tr>
-				<td><a href="../../../4-172-matrix">4-172-matrix</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/4-172-matrix">4-172-matrix</a></td>
 				<td>Mảng hai chiều</td>
 				<td align="center">4</td>
 				<td align="center">6</td>
@@ -226,7 +226,7 @@
 				<td align="center">32</td>
 			</tr>
 			<tr>
-				<td><a href="../../../5-258-struct">5-258-struct</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/5-258-struct">5-258-struct</a></td>
 				<td>Cấu trúc dữ liệu</td>
 				<td align="center">5</td>
 				<td align="center">7</td>
@@ -236,7 +236,7 @@
 				<td align="center">32</td>
 			</tr>
 			<tr>
-				<td><a href="../../../6-290-recursion">6-290-recursion</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/6-290-recursion">6-290-recursion</a></td>
 				<td>Đệ quy</td>
 				<td align="center">6</td>
 				<td align="center">8</td>
@@ -270,26 +270,20 @@
 
 ---
 
-<h2 align="center">🔮 TOOL, PLATFORM, LANG 🔍</h2>
+<h2 align="center">🔮 TECH 🔍</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,cpp,py,md,bash,git,github,githubactions,visualstudio,vscode,regex&perline=6&theme=dark" />
   </a>
+  <br>
+  <img height="44px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
+  <img height="44px" src="https://imgbot.net/images/128x128_circle.png" alt="ImgBot" />
+  <img height="44px" src="https://avatars.githubusercontent.com/u/31419072" alt="Restyled.io Bot" />
+  <img height="44px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
+  <img height="44px" src="/img/codefactor-icon-svgrepo-com.svg" alt="CodeFactor" />
+  <img height="44px" src="/img/gitguardian_crop_1x1.png" alt="Gitguardian" />
+  <br>
+  <img height="44px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
+  <img height="44px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
 </p>
-
----
-
-<h2 align="center">🤖 BOT, FORMAT 🔨</h2>
-
-<div align="center">
-    <img height="44px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
-    <img height="44px" src="https://imgbot.net/images/128x128_circle.png" alt="ImgBot" />
-    <img height="44px" src="https://avatars.githubusercontent.com/u/31419072" alt="Restyled.io Bot" />
-    <img height="44px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
-    <img height="44px" src="/img/codefactor-icon-svgrepo-com.svg" alt="CodeFactor" />
-    <img height="44px" src="/img/gitguardian_crop_1x1.png" alt="Gitguardian" />
-    <br>
-    <img height="44px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
-    <img height="44px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
-</div>
